@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarkarayudh47
-- 👀 I’m interested in graphic designing, video editing and coding
-- 🌱 I’m currently learning video editing and coding
-- 💞️ I’m looking to collaborate on graphic designing related content creation or video editing projects
+- 👀 I’m interested in Game Development, Machine Learning, Web Development and Coding in general
+- 🌱 I’m currently learning Unity and Web Development
+- 💞️ I’m looking to collaborate on Game Development projects and Endeavours, Machine Learning Projects
 - 📫 How to reach me ---->sarkarayudh47@gmail.com
 
 <!---
